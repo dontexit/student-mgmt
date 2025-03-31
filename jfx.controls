@@ -1,0 +1,5 @@
+javafx {
+    version = "23"
+    modules = [ 'javafx.controls' ]
+}
+
