@@ -17,23 +17,23 @@ run.bat
 
 ## Screenshots
 
-![Main Menu](https://www.github.com/dontexit/student-mgmt/screenshots/menu.png)
+![Main Menu](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/menu.png)
 
-![Add Course](https://www.github.com/dontexit/student-mgmt/screenshots/addCourse.png)
+![Add Course](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/addCourse.png)
 
-![Enroll Course](https://www.github.com/dontexit/student-mgmt/screenshots/enrollCourse.png)
+![Enroll Course](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/enrollCourse.png)
 
-![Search Student](https://www.github.com/dontexit/student-mgmt/screenshots/searchStudent.png)
+![Search Student](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/searchStudent.png)
 
-![Student Detail](https://www.github.com/dontexit/student-mgmt/screenshots/studentDetail.png)
+![Student Detail](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/studentDetail.png)
 
-![Assign Grade](https://www.github.com/dontexit/student-mgmt/screenshots/assignGrade.png)
-
-
-![Search Course](https://www.github.com/dontexit/student-mgmt/screenshots/searchCourse.png)
-
-![Course Detail](https://www.github.com/dontexit/student-mgmt/screenshots/courseDetail.png)
+![Assign Grade](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/assignGrade.png)
 
 
-![Edit Course](https://www.github.com/dontexit/student-mgmt/screenshots/courseEdit.png)
+![Search Course](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/searchCourse.png)
+
+![Course Detail](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/courseDetail.png)
+
+
+![Edit Course](https://raw.githubusercontent.com/dontexit/student-mgmt/refs/heads/main/screenshots/courseEdit.png)
 
